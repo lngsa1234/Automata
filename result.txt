@@ -1,0 +1,9 @@
+
+
+Input N=10000
+Elapsed time is 0.283136 seconds.
+Elapsed time is 0.252532 seconds.(random)
+
+Input N=100000
+Elapsed time is 13.773376 seconds.
+Elapsed time is 13.359232 seconds.(random)
